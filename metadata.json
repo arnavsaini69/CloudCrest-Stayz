@@ -1,0 +1,6 @@
+{
+  "name": "CloudCrest Stayz",
+  "description": "Boutique rooms, social hostel beds, and mountain stays with an interactive mobile app companion and booking engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
